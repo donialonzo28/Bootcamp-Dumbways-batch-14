@@ -2,6 +2,7 @@
 $param = 'DUMBWAYS';
 drawImage($param);
 
+
 function drawImage($param){
     echo "\n\n";
     $len = strlen($param);
